@@ -7,3 +7,6 @@ I'm most passionate about getting my Git/Terminal skills polished.
 
 ## About the project
 It is empty at the moment.
+
+### Copyright
+Goulash image is from https://www.pravda.ru/news/recipes/2139917-hungarian-goulash-recipe/
