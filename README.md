@@ -10,9 +10,9 @@ It is empty at the moment.
 
 ## Copyright
 ### Recipes:
-Goulash: https://www.recipetineats.com/butter-chicken/
-Butter Chicken: https://www.recipetineats.com/butter-chicken/
+Goulash: https://www.recipetineats.com/butter-chicken/\n
+Butter Chicken: https://www.recipetineats.com/butter-chicken/\n
 Biryani: https://www.recipetineats.com/biryani/ 
 
-Goulash image: https://www.pravda.ru/news/recipes/2139917-hungarian-goulash-recipe/
+Goulash image: https://www.pravda.ru/news/recipes/2139917-hungarian-goulash-recipe/\n
 Butter chicken and biryani images are from their respective recipe links. 
